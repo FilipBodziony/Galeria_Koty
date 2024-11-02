@@ -1,0 +1,200 @@
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AssemblyInfo.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\App.xbf
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.xr.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.exe
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\resources.pri
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\KOTEK.UWP.exe
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.build.appxrecipe
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xaml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xbf
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.CopyComplete
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.exe
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AssemblyInfo.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot2.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot1.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot3.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot4.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\App.xbf
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\MainPage.xbf
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.xr.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.exe
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\resources.pri
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AppxManifest.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\AppxManifest.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\KOTEK.UWP.exe
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.build.appxrecipe
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\System.Runtime.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.AssemblyReference.cache
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.i.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.i.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xaml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xaml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xbf
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xbf
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.CoreCompileInputs.cache
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.Up2Date
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.exe
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ResourceHandlingTask.state
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ProjectArchitectures.txt
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AssemblyInfo.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot2.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot1.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot3.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\assets\kot4.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\App.xbf
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\MainPage.xbf
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.xr.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.exe
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\resources.pri
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\AppxManifest.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\AppxManifest.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Core\KOTEK.UWP.exe
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.UWP.build.appxrecipe
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\System.Runtime.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\bin\x64\Debug\KOTEK.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.AssemblyReference.cache
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.i.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.g.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.i.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.g.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xaml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xaml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\App.xbf
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MainPage.xbf
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.CoreCompileInputs.cache
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.csproj.Up2Date
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.exe
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\KOTEK.UWP.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ResourceHandlingTask.state
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\priconfig.xml.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\resources.resfiles.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\pri.resfiles.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\ProjectArchitectures.txt
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+D:\Pobrane\KOTEK\KOTEK\KOTEK.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json

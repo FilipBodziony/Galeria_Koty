@@ -1,0 +1,60 @@
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.deps.json
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfo.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\refint\KOTEK.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.pdb
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\ref\KOTEK.dll
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\AssemblyInfo.cs
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot1.jpg
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot2.jpg
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot3.jpg
+C:\Users\uczen\Desktop\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot4.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\AssemblyInfo.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot2.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot1.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot3.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot4.jpg
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.deps.json
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.AssemblyReference.cache
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfoInputs.cache
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfo.cs
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.CoreCompileInputs.cache
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\refint\KOTEK.dll
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.pdb
+E:\Pracownia Aplikacji Mobilnych\FB\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\ref\KOTEK.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\AssemblyInfo.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot2.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot1.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot3.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\assets\kot4.jpg
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.deps.json
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK\bin\Debug\netstandard2.0\KOTEK.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.AssemblyReference.cache
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfoInputs.cache
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.AssemblyInfo.cs
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.csproj.CoreCompileInputs.cache
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\refint\KOTEK.dll
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\KOTEK.pdb
+D:\Pobrane\KOTEK\KOTEK\KOTEK\obj\Debug\netstandard2.0\ref\KOTEK.dll

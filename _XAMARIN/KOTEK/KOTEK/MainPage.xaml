@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KOTEK.MainPage">
+
+    <StackLayout x:Name="slWindow"
+            BackgroundColor="#00796B">
+        <Label Text="Galeria"
+                FontSize="Title"
+                BackgroundColor="#004C40"
+                TextColor="white"/>
+        <Image x:Name="img"
+                Source="assets/kot1.png"
+                Aspect="Fill"
+                HeightRequest="300"/>
+        <AbsoluteLayout>
+            <Button x:Name="btnPREV"
+                    Text="PREV"
+                    BackgroundColor="#004C40"
+                    TextColor="white"
+                    Clicked="btnPREV_Clicked"/>
+            <Button x:Name="btnNEXT"
+                    Text="NEXT"
+                    AbsoluteLayout.LayoutBounds="1,0,AutoSize,AutoSize"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    BackgroundColor="#004C40"
+                    TextColor="white"
+                    Clicked="btnNEXT_Clicked"/>
+        </AbsoluteLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Który obraz wyświetlić?"/>
+            <Entry x:Name="nrImg"
+                    WidthRequest="100"
+                    HorizontalOptions="EndAndExpand"
+                    TextChanged="nrImg_TextChanged"
+                    
+                   />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Tlo niebieskie?"/>
+            <Switch x:Name="swBackground"
+                    IsToggled="false"
+                    Margin="40,0,0,0"
+                    Toggled="swBackground_Toggled"/>
+        </StackLayout>
+        <Label Text="Autor: Filip"
+                FontSize="Title"
+                VerticalOptions="EndAndExpand"
+                BackgroundColor="#004C40"/>
+    </StackLayout>
+
+</ContentPage>
